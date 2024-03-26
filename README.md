@@ -14,8 +14,8 @@ Telegram: https://t.me/HiaiFeng <br>
 <li>增加站点地图。</li>
 
 # 部署：
-<p>1、登录自己的 GitHub 账号后 Fork 该项目。</p>
-<p>详细使用方案请参考：https://www.hicairo.com/post/55.html</p>
+<p>登录自己的 GitHub 账号后 Fork 该项目。</p>
+<p>详细使用方案请参考：https://www.hicairo.com/post/72.html</p>
 
 # 反馈与交流：
 <p>在使用过程中，如果遇到问题，请使用 Telegram 与我联系。（ https://t.me/HiaiFeng ）</p>
