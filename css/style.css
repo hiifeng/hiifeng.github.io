@@ -1,0 +1,84 @@
+#back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px
+}
+
+#back-to-top a {
+  background: rgba(0,0,0,0.45);
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  transition: 1s;
+  width: 40px;
+  height: 40px;
+  display: block;
+  font-size: 36px;
+  color: #fff;
+  text-align: center;
+  border-radius: 3px 3px;
+  text-decoration: none
+}
+
+#back-to-top a:hover {
+  background-color: #0085a1
+}
+
+#back-to-top i {
+  font-size: 24px;
+  line-height: 40px;
+  vertical-align: top
+}
+
+@media only screen and (max-width: 768px) {
+  #back-to-top {
+      right:0
+  }
+
+  .row {
+      padding-left: 10px;
+      padding-right: 10px
+  }
+
+  .post-container p {
+      font-size: 14px
+  }
+
+  .post-container li {
+      font-size: 14px
+  }
+
+  .post-container h2,h2 {
+      font-size: 20px
+  }
+
+  .post-container h3,h3 {
+      font-size: 16px
+  }
+
+  .post-container h4,h4 {
+      font-size: 15px
+  }
+
+  .MathJax span {
+      font-size: 15px
+  }
+
+  legend {
+      font-size: 20px
+  }
+
+  .tab-content a {
+      font-size: 14px
+  }
+
+  .badge {
+      font-size: 10px
+  }
+
+  .text-muted {
+      color: #bfbfbf;
+      font-size: 14px
+  }
+}
