@@ -95,7 +95,7 @@ page-mathjax: false
 friends:
   [
     { title: "HiFeng's Blog", href: "http://www.hicairo.com" },
-    { title: "新月的博客", href: "https://blog.a--i.eu.org/" },
+        { title: "新月的博客", href: "https://blog.a--i.eu.org" },
     { title: "科技小岛", href: "https://www.kejiland.com" },
     { title: "耕读博客", href: "https://www.igengdu.com" },
 #    { title: "SmdCn", href: "http://blog.smdcn.net" },
