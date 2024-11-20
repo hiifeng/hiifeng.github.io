@@ -77,7 +77,7 @@ tags:
 
 1、打开如下网址，点击屏幕右上角的“Dashboard”按钮。
 
-[https://dartnode.com/?via=ifeng](https://dartnode.com/?via=ifeng)
+[https://dartnode.com/?aff=ifeng](https://dartnode.com/?aff=ifeng)
 
 ![](https://www.hicairo.com/zb_users/upload/2024/03/202403031709454291702729.webp)
 
