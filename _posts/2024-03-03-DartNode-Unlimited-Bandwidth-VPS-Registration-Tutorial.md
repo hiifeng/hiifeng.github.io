@@ -13,7 +13,7 @@ tags:
 
 > 这篇文章转载自 [HiFeng'Blog](https://www.hicairo.com/post/71.html)
 
-[DartNode](https://dartnode.com?aff=ifeng) 成立于 2023年，总部位于休斯顿技术中心的中心地带，是 Snaju® Inc. 的一个部门，在 NASA 约翰逊航天中心附近运营着一个 24/7/365 网络运营中心。DartNode 提供`带宽  1 Gb/s 不限流量的 vps 套餐`，其中 VPS-1 Plan `每月仅需 2 美元`，对于经常看 Netflix、youtube 或需要大量下载的小伙伴，终于不用担心流量用超的问题了。
+[DartNode](https://dartnode.com/?via=ifeng) 成立于 2023年，总部位于休斯顿技术中心的中心地带，是 Snaju® Inc. 的一个部门，在 NASA 约翰逊航天中心附近运营着一个 24/7/365 网络运营中心。DartNode 提供`带宽  1 Gb/s 不限流量的 vps 套餐`，其中 VPS-1 Plan `每月仅需 2 美元`，对于经常看 Netflix、youtube 或需要大量下载的小伙伴，终于不用担心流量用超的问题了。
 
 ## 一、测试 vps 速度
 
@@ -77,7 +77,7 @@ tags:
 
 1、打开如下网址，点击屏幕右上角的“Dashboard”按钮。
 
-[https://dartnode.com?aff=ifeng](https://dartnode.com?aff=ifeng)
+[https://dartnode.com/?via=ifeng](https://dartnode.com/?via=ifeng)
 
 ![](https://www.hicairo.com/zb_users/upload/2024/03/202403031709454291702729.webp)
 
