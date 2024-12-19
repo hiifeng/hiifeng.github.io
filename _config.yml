@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: webmaster@hicairo.com
 description: "HiFeng's Blog_记录学习中的点点滴滴......"
 keyword: "linux,debian,gentoo,ubuntu,redhat,centos,fedora,arch linux,openSuse,shell,bash,database,php,vps,v2ray,xray,vmess,vless,trojan,hysteria,naive,wireguard"
-url: "https://demo.hidoha.net" # your host, for absolute URL
+url: "https://demo.hicairo.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -73,7 +73,7 @@ netease_comment: false
 
 # Google Analytics
 # ga_track_id: "G-L0885W521V" # Format: UA-xxxxxx-xx
-# ga_domain: demo.hidoha.net
+# ga_domain: demo.hicairo.com
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
@@ -95,7 +95,7 @@ page-mathjax: false
 friends:
   [
     { title: "HiFeng's Blog", href: "http://www.hicairo.com" },
-        { title: "新月的博客", href: "https://blog.a--i.eu.org" },
+    { title: "新月的博客", href: "https://blog.a--i.eu.org" },
     { title: "科技小岛", href: "https://www.kejiland.com" },
     { title: "耕读博客", href: "https://www.igengdu.com" },
 #    { title: "SmdCn", href: "http://blog.smdcn.net" },
