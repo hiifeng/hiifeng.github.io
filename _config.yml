@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: webmaster@hicairo.com
 description: "HiFeng's Blog_记录学习中的点点滴滴......"
 keyword: "linux,debian,gentoo,ubuntu,redhat,centos,fedora,arch linux,openSuse,shell,bash,database,php,vps,v2ray,xray,vmess,vless,trojan,hysteria,naive,wireguard"
-url: "https://demo.hicairo.com" # your host, for absolute URL
+url: "https://ifeng.hidns.co" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
