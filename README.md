@@ -3,6 +3,9 @@ Create By ifeng<br>
 Web Site: https://www.hicairo.com <br>
 Telegram: https://t.me/HiaiFeng <br>
 
+# HiDNS 免费域名：
+[HiDNS](https://www.hidoha.net) 近日推出永久免费计划，敬请关注。[HiDNS Lifetime Free Plan](https://www.hidoha.net/news/important-update-on-hidns-free-domain-service)
+
 # 简介：
 本项目介绍如何通过 Jekyll 在 GitHub Pages 上搭建 Blog 系统。Jekyll 的核心是一个文本转换引擎。它的方便之处在于支持多种文本标记语言：Markdown，Textile，HTML，然后 Jekyll 就会帮你加入你选择主题的样式的布局中。最终生成你自己的静态博客网站。
 
