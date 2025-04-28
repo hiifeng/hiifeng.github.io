@@ -27,3 +27,7 @@ Telegram: https://t.me/HiaiFeng <br>
 本项目基于黄玄的项目修改，同时参考了 elmagnifico 的项目。<br>
 https://github.com/huxpro/huxpro.github.io<br>
 https://github.com/elmagnificogi/elmagnificogi.github.io
+
+# 赞助声明：
+本项目由 [VTEXS](https://console.vtexs.com/?affid=1539) 的「开源项目免费 VPS 计划」提供算力支持。<br>
+感谢 VTEXS 对开源社区的支持！<br>
